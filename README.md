@@ -1,4 +1,4 @@
-# Food Delivery App (IN PROGRESS)
+# Food Delivery App
 
 ## Overview
 The Food Delivery App is a modern web application that connects users with a variety of restaurants, allowing them to browse menus, place orders, and track deliveries in real-time. This project aims to streamline the food ordering process, providing a user-friendly interface and efficient service. With the rise of online food ordering, this application addresses the need for a seamless and enjoyable dining experience at home.
